@@ -1,0 +1,4 @@
+interface:
+  display_name: "会议纪要"
+  short_description: "把会议录音整理成图文纪要、带时间点文字稿与待确认问题清单"
+  default_prompt: "用 $meeting-minutes 把这段会议录音整理成图文纪要、带时间点的文字稿和待确认问题清单。"
